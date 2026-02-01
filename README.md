@@ -1,6 +1,3 @@
-
----
-
 ## 🌐 WebSocket – Clean Study Notes
 
 ### 🧰 Tech Stack
