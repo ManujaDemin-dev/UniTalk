@@ -14,9 +14,6 @@ export default function Navbar({ authButton }: { authButton: React.ReactNode }) 
       {/* Logo Section */}
       <div className="flex items-center gap-3 group cursor-pointer">
         <div className="relative w-6 h-6">
-           {/* Glowing Core */}
-          <div className="absolute inset-0 bg-orange-600 rotate-45 rounded-sm group-hover:scale-110 transition-transform duration-300" />
-          <div className="absolute inset-0 bg-orange-400 rotate-45 rounded-sm blur-md opacity-50" />
         </div>
         <span className="font-black italic text-white text-2xl tracking-tighter uppercase">
           UniTalk
