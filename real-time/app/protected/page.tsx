@@ -33,7 +33,7 @@ export default async function ProtectedPage() {
           {/* Header Section */}
           <div className="mb-12">
             <p className="text-blue-900 font-bold tracking-[0.2em] uppercase text-xs mb-3">
-              Design Resources & Dashboard
+              User Profile & Dashboard
             </p>
             <h1 className="text-7xl md:text-8xl font-black text-slate-900 leading-[0.9] tracking-tighter">
               Thank <br /> 
@@ -90,11 +90,11 @@ export default async function ProtectedPage() {
           <footer className="mt-16 flex justify-between items-center border-t border-slate-200 pt-8">
             <div>
               <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400">Secure Access</p>
-              <p className="text-xs text-slate-500 font-bold">Powered by Supabase</p>
+              <p className="text-xs text-slate-500 font-bold">Unitalk @2026</p>
             </div>
             <div className="text-right">
-              <p className="text-xs text-slate-400 font-medium">Design Inspiration Sources</p>
-              <p className="text-[10px] text-blue-500 font-bold uppercase">Beyond Instagram</p>
+              <p className="text-xs text-slate-400 font-medium">Cooked by Annonixli</p>
+              <p className="text-[10px] text-blue-500 font-bold uppercase">A connection amount uni</p>
             </div>
           </footer>
 
